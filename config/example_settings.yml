@@ -1,0 +1,4 @@
+root_url: https://some-site.com
+client_id: googleclient.com
+client_secret: a_secret_from_google
+spreadsheet_by_key: the-id-of-the-google-spreadsheet
